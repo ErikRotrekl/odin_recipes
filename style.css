@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    font-size: large;
+    
+    
+}
+
+#one {
+    text-align: left;
+}
+
+#two {
+    text-align: center;
+}
+
+#three {
+    text-align: right;
+}
